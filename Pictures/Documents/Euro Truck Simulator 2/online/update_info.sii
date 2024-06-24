@@ -1,0 +1,81 @@
+SiiNunit
+{
+patch_notes_info : _nameless.1a2.a33f.2540 {
+ lang_id: en_gb
+ content_id: "Tue, 28 Nov 2023 07:51:38 GMT"
+ messages: 9
+ messages[0]: _nameless.1a2.a9b3.c3e0
+ messages[1]: _nameless.1a2.a9b3.bf60
+ messages[2]: _nameless.1a2.a9b3.d660
+ messages[3]: _nameless.1a2.a9b3.c860
+ messages[4]: _nameless.1a2.a9b3.c260
+ messages[5]: _nameless.1a2.a9b3.bbe0
+ messages[6]: _nameless.1a2.a9b3.cc60
+ messages[7]: _nameless.1a2.a9b3.ce60
+ messages[8]: _nameless.1a2.a9b3.d760
+}
+
+patch_notes_data : _nameless.1a2.a9b3.c3e0 {
+ game_version: "1.43"
+ title: "1.43"
+ url: "https://blog.scssoft.com/2021/12/euro-truck-simulator-2-143-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Lyon City Revamp<br>- Viewpoints Addition<br>- Tollgate Update<br>- New Special Transport Routes<br>- New Iberia Roads<br>- General Bugfixes<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Dumper Trailers<br>- Michelin Tyre DLC Update<br>- MAN TGX EfficientLine 3<br><br><color value=@@clr_sel@@>UI<br><br><color value=@@clr_txt@@>- New Loading Screen Images<br>- World Map Legend Filters<br><br><color value=@@clr_sel@@>Other<br><br><color value=@@clr_txt@@>- Improved Controller Support<br>- Implemented Sound Attenuation<br>- MSDF Font Implementation"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.bf60 {
+ game_version: "1.44"
+ title: "1.44"
+ url: "https://blog.scssoft.com/2022/05/euro-truck-simulator-2-144-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Austria Rework<br>- Unmarked Road Exploration<br>- Distance Signs with Accurate Mileage System<br>-<margin left=8>Some older border crossings reworked in Beyond the Baltic Sea</margin><br>- Italian Tollgates Update<br>- Companies Logo Revisions<br>- UI Road Numbers in Corsica/Sardinia<br>- Other Map Improvements<color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- Mod Refund Feature<br>- Licensed vs Aftermarket UI in browsers<br>- Force Feedback Upgrade<br>- Adjustable Suspension Height<br>- Interior Camera Horizontal Lock<br>- Smart Sequential Shifting<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- New 2022 Interior option for Renault T<br>- Exterior Interior Models reworked for Renault T"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.d660 {
+ game_version: "1.45"
+ title: "1.45"
+ url: "https://blog.scssoft.com/2022/07/euro-truck-simulator-2-145-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Hannover Rework<br>-<margin left=8>Krone Production Plant, Werlte (requires Krone Trailer Pack DLC)</margin><br><br><color value=@@clr_sel@@>Gameplay<br><br><color value=@@clr_txt@@>- Optional MOD Support for Convoys<br>- Custom City Intros for Austria and Hanover<br>- Rain Sensor Option<br>- Option to hide inaccessible road markers<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cistern Trailers (Silo and Fuel Tank)<br>-<margin left=8>Krone Paper Liner, Krone Profi Liner Building, more Krone toys (requires Krone Trailer Pack DLC)</margin><br>- JOST Fifth Wheel Phase 1 implementation"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.c860 {
+ game_version: "1.46"
+ title: Iberia
+ url: "https://blog.scssoft.com/2021/04/iberia-release-cruisingiberia-event.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "The Iberian Peninsula is full of rich and diverse landscapes, from semi-arid southeastern deserts to the green coniferous forests. Iberia is home to numerous historic villages and towns, narrow streets, old churches and impressive castles. Visit the capital of Spain, Madrid, the coastal capital of Portugal, Lisboa, a wide amount of coastal cities like M\xc3\xa1laga and Olh\xc3\xa3o, and many of the inland cities. Be an important part of the strong export economy and deliver cargo from Iberia through Europe.<br><br>Iberia is delightful, here's why:<br><br>-<margin left=8>Travel through the Tabernas Desert, often nicknamed 'mainland Europe's only desert'</margin><br>-<margin left=8>Connect Iberia to the rest of Europe with shipments from its busy ports</margin><br>-<margin left=8>Deliver car parts and whole cars to and from the various car factories to the shipping terminals</margin><br>-<margin left=8>Take a rest at truck stops and gas stations crafted to closely match their real-life counterparts</margin><br>-<margin left=8>See landmarks of all shapes and sizes, from medieval castles to statues of historical figures</margin><br>-<margin left=8>Enjoy the spectacular view of the coast and even the famous 'The Rock of Gibraltar' located on the other side of the bay from the coastal city of Algeciras</margin><br>-<margin left=8>Immerse yourself in new ambient sound, from the subtle sound of wind through the valleys to the tweeting of birds</margin><br>-<margin left=8>Explore mountainous areas with a wide range of colorful rocks</margin><br>-<margin left=8>Visit landmarks like the Guadiana International Bridge and get a bird's-eye view on it with the viewpoint feature</margin><br>-<margin left=8>Unlock Iberia-specific Steam achievements</margin>"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.c260 {
+ game_version: "1.46"
+ title: "1.46"
+ url: "https://blog.scssoft.com/2022/11/euro-truck-simulator-2-146-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- New Explorable Iberian Settlement and Company<br>- Iberian Regional Signage<br><br><color value=@@clr_sel@@>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Cisterns - Chemical Trailers<br>-<margin left=8>DAF 2021 got custom infotainment implementation</margin><br>-<margin left=8>Infotainment/GPS screens on all trucks have switched off state separated from map zoom</margin><br>-<margin left=8>Cellphones and navigational devices got a custom implementation</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>- New Gallery Feature<br>- Company Browser<br>- Custom City Intros<br>- Driveshaft Torque"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.bbe0 {
+ game_version: "1.47"
+ title: "1.47"
+ url: "https://blog.scssoft.com/2023/04/euro-truck-simulator-2-147-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Several cities in Germany reworked<br>- Uneven Surface Simulation<color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>- Ownable Gas Cisterns<br>- Ownable Livestock Trailers<br>-<margin left=8>Adaptive Cruise Control & Emergency Brake System</margin><color value=@@clr_sel@@><br><br>Gameplay<br><br><color value=@@clr_txt@@>-<margin left=8>Custom City Intros for Road to the Black Sea DLC</margin><br>- Addition of Sound Direction Filter<br><margin left=8>Performance Improvements (night, bad weather, dense traffic)</margin><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>- Career History UI Redesign<br>- In Game Update Log<br>- Economy Reset Teleport"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.cc60 {
+ game_version: "1.48"
+ title: "1.48"
+ url: "https://blog.scssoft.com/2023/08/euro-truck-simulator-2-148-release.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Map<br><br><color value=@@clr_txt@@>- Germany Rework <br><color value=@@clr_sel@@><br><br>Vehicles<br><br><color value=@@clr_txt@@>-<margin left=8>Electronic Stability Controls (Anti-Lock Braking System + Traction Control)</margin><br>- Reworked Vehicle Transport Trailers<br><color value=@@clr_sel@@><br><br>UI<br><br><color value=@@clr_txt@@>-<margin left=8>Per-Country Map Exploration</margin><br>- Cities in the Gallery<br>-<margin left=8>Options Sliders now feature numbers</margin><br>-<margin left=8>Input Wizard Control Selection UI Overhaul</margin><color value=@@clr_sel@@><br><br>Other<br><br><color value=@@clr_txt@@>- Third-Party Mod Structure Change"
+}
+
+patch_notes_data : _nameless.1a2.a9b3.ce60 {
+ game_version: "1.48"
+ title: "West Balkans"
+ url: "https://blog.scssoft.com/2023/10/west-balkans-release.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "Discover, deliver, and expand your trucking company to Albania, Bosnia and Herzegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia, and Slovenia.<br><br>Embark on an odyssey across our artistic depiction of the West Balkans, a huge playground waiting for you to uncover its wonders. Enjoy the journey, savouring each moment as you discover many features along the way:<br><br>-<margin left=8>Travel through 8 new captivating countries, each with its unique charm.</margin><br>-<margin left=8>Discover 14 explorable cities including Split and Belgrade</margin><br>-<margin left=8>Take your truck on a drive through 30 vibrant towns</margin><br>-<margin left=8>Experience the region's stunning nature, from Durmitor National Park to Bjeshk\xc3\xabt e Nemuna National Park, with iconic mountains, hills, and mesmerizing sea views</margin><br>-<margin left=8>Explore unique depots for the aluminium industry, chemical factories and oil wells</margin><br>-<margin left=8>Take your cargo to 3 industrial ports along the Danube River (Belgrade, Novi Sad, Osijek)</margin><br>-<margin left=8>Marvel at the beauty of the historical city centres in Split, Mostar, Sarajevo, Pristina, and more</margin><br>-<margin left=8>Cross the borders at over 20 unique crossings</margin><br>-<margin left=8>Enjoy the scenic countryside with 15 viewpoints and take a photo with your truck at 20 iconic landmarks</margin><br><br>Remember that beyond the initial sights, this region holds hidden gems waiting to be explored. Be ready, because the next thrilling adventure might be just around the corner."
+}
+
+patch_notes_data : _nameless.1a2.a9b3.d760 {
+ game_version: "1.49"
+ title: "1.49"
+ url: "https://blog.scssoft.com/2023/11/euro-truck-simulator-2-149-update.html?utm_source=ingame_ets2&utm_medium=update_log"
+ text_pml: "<color value=@@clr_sel@@>Visual<br><br><color value=@@clr_txt@@>- HDR Skyboxes, Moon and New Weather Effects<color value=@@clr_sel@@><br><br>Vehicle<br><br><color value=@@clr_txt@@>-<margin left=8>Automatic Headlights</margin><color value=@@clr_sel@@><br><br>Other<br><br><color value=@@clr_txt@@>-<margin left=8>Used Truck Dealers</margin><br>- Keybind Modifiers"
+}
+
+}
